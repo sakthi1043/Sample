@@ -20,4 +20,5 @@ RUN pip install --no-cache-dir pygame
 
 ENV DISPLAY=:0
 
-CMD ["python", "flappy.py"]
+CMD ["python", "FlappyBird.py"]
+
